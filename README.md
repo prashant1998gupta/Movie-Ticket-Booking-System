@@ -17,6 +17,6 @@
 
 ## Usecase Diagram
 
-![Image of Use Case Diagram](https://github.com/thepeeyoosh/Movie-Ticket-Booking-System/images/master/usecase_movie_ticket_booking.png)
+![Image of Use Case Diagram](https://github.com/thepeeyoosh/ATM-Machine-Demo/blob/master/images/master/usecase_movie_ticket_booking.png)
 
 ## Class Diagram
