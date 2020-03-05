@@ -1,6 +1,6 @@
 # Movie-Ticket-Booking-System
 
-######Let's collect the basic requirements of the system.
+###### Let's collect the basic requirements of the system.
 
 - The system should be able to select the **_location(based on the city, pin, etc.)_**
 - Search System (by the **_movie_** name, by **_cinema_**, release date).
