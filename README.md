@@ -1,5 +1,8 @@
 # Movie-Ticket-Booking-System
 
+# Problem Definition:
+  Here details about Now playing movies and no of tickets available in aparticular theatre for particular movie, Movie Details, ticket cost for registeredusers
+
 ### Let's collect the basic requirements of the system.
 
 - The system should be able to select the **_location(based on the city, pin, etc.)_**
